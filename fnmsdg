@@ -1,0 +1,42 @@
+[33mcommit faabe564fbc971631c70d339368c5337dea58fe3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: fe01ca6 6148569
+Author: alok <alok@gmail.com>
+Date:   Sun Sep 24 09:33:14 2023 +0530
+
+    resolve
+
+[33mcommit fe01ca675ecec16d5f996c2fde2f34790104dcbf[m
+Author: alok <alok@gmail.com>
+Date:   Sun Sep 24 09:30:03 2023 +0530
+
+    file 3 in main are modify
+
+[33mcommit 61485692b5c1302efa50742e417b2d0c9fc11a37[m[33m ([m[1;32mbranch3[m[33m)[m
+Author: alok <alok@gmail.com>
+Date:   Sun Sep 24 09:28:31 2023 +0530
+
+    file 3 is modify
+
+[33mcommit 5f7194b9f0869e8c778934f7ba4634636a8e3c68[m
+Author: alok <alok@gmail.com>
+Date:   Sun Sep 24 09:22:51 2023 +0530
+
+    2 file added
+
+[33mcommit 063f237a7f2b0e2d470f7bfa731f36b786aa6954[m
+Author: alok <alok@gmail.com>
+Date:   Sat Sep 23 22:51:49 2023 +0530
+
+    version3
+
+[33mcommit 8496a9ff1e0161093ba6da7793515db58ec05182[m
+Author: alok <alok@gmail.com>
+Date:   Sat Sep 23 22:42:57 2023 +0530
+
+    version 2
+
+[33mcommit 4f5e70d0550490b8ee0bc40270cd6727d0045682[m[33m ([m[1;32mnewbranch[m[33m, [m[1;32mbranch4[m[33m)[m
+Author: alok <alok@gmail.com>
+Date:   Sat Sep 23 22:41:09 2023 +0530
+
+    version 1
